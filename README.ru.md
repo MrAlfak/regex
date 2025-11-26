@@ -1,24 +1,24 @@
-# 🔒 API Security Checklist
+# 🔒 Чеклист безопасности API
 
-> **A comprehensive and practical checklist** of the most important tasks that must be performed to maintain security during API design, development, testing, and deployment.
+> **Комплексный и практический чеклист** наиболее важных задач, которые должны быть выполнены для обеспечения безопасности при проектировании, разработке, тестировании и развертывании API.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-## 🌍 Languages / اللغة
+## 🌍 Языки / Languages
 
-### Available Now
+### Доступно Сейчас
 - 🇮🇷 [فارسی (Persian)](./Readme.md)
-- 🇬🇧 [English](./README.en.md) - Current
+- 🇬🇧 [English](./README.en.md)
 - 🇸🇦 [العربية (Arabic)](./README.ar.md)
+- 🇪🇸 [Español (Spanish)](./README.es.md)
+- 🇫🇷 [Français (French)](./README.fr.md)
+- 🇩🇪 [Deutsch (German)](./README.de.md)
+- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md)
+- 🇯🇵 [日本語 (Japanese)](./README.ja.md)
+- 🇷🇺 [Русский (Russian)](./README.ru.md) - Текущая версия
 
-### In Progress
-- 🇪🇸 [Español (Spanish)](./README.es.md) - 🚧
-- 🇫🇷 [Français (French)](./README.fr.md) - 🚧
-- 🇩🇪 [Deutsch (German)](./README.de.md) - 🚧
-- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md) - 🚧
-- 🇯🇵 [日本語 (Japanese)](./README.ja.md) - 🚧
-- 🇷🇺 [Русский (Russian)](./README.ru.md) - 🚧
+### В Процессе
 - 🇵🇹 [Português (Portuguese)](./README.pt.md) - 🚧
 - 🇮🇹 [Italiano (Italian)](./README.it.md) - 🚧
 - 🇹🇷 [Türkçe (Turkish)](./README.tr.md) - 🚧
@@ -73,39 +73,39 @@
 
 ---
 
-## 📖 About the Project
+## 📖 О Проекте
 
-This project is a **comprehensive and practical checklist** for API security that helps developers design, develop, and deploy their APIs securely.
+Этот проект представляет собой **комплексный и практический чеклист** для безопасности API, который помогает разработчикам безопасно проектировать, разрабатывать и развертывать свои API.
 
-### ✨ Features
+### ✨ Особенности
 
-- 🔒 **Comprehensive Coverage**: Includes all aspects of API security from authentication to CI/CD
-- 📝 **Practical and Usable**: Each item includes explanations and practical examples
-- 🎯 **Well-Organized**: Categorized by security domains
-- 🔄 **Continuously Updated**: Keeps pace with the latest standards and best practices
-- 🌍 **Multi-language Support**: Available in Persian, English, and Arabic
+- 🔒 **Комплексное Покрытие**: Включает все аспекты безопасности API от аутентификации до CI/CD
+- 📝 **Практичный и Полезный**: Каждый пункт включает объяснения и практические примеры
+- 🎯 **Хорошо Организован**: Категоризирован по доменам безопасности
+- 🔄 **Постоянно Обновляется**: Следует за последними стандартами и лучшими практиками
+- 🌍 **Многоязычная Поддержка**: Доступно на персидском, английском, арабском, испанском, французском, немецком, китайском, японском и русском языках
 
-### 🎯 Who is it for?
+### 🎯 Для Кого?
 
-- Backend developers building APIs
-- DevOps and Security teams
-- Software architects and Technical Leads
-- Students and security enthusiasts
+- Backend-разработчики, создающие API
+- Команды DevOps и Безопасности
+- Архитекторы программного обеспечения и технические лидеры
+- Студенты и энтузиасты безопасности
 
-### 🚀 Quick Start
+### 🚀 Быстрый Старт
 
-1. Star this repository to stay updated
-2. Review the checklist before each deployment
-3. Check off items relevant to your project
-4. Submit a Pull Request if needed
+1. Поставьте звезду этому репозиторию, чтобы оставаться в курсе обновлений
+2. Просмотрите чеклист перед каждым развертыванием
+3. Отметьте пункты, относящиеся к вашему проекту
+4. Отправьте Pull Request при необходимости
 
 ---
 
-## 💰 Funding
+## 💰 Финансирование
 
 <div align="center">
 
-If this project has been useful to you, you can support us through the following methods:
+Если этот проект был полезен вам, вы можете поддержать нас следующими способами:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
@@ -643,21 +643,21 @@ These items **must** be reviewed before each production deployment:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Вклад
 
-You can easily fork this repository, apply your desired changes, and submit a pull request.
+Вы можете легко сделать fork этого репозитория, применить желаемые изменения и отправить pull request.
 
-If you have any questions, email us at `info@zahedalfak.ir`.
+Если у вас есть вопросы, напишите нам на `info@zahedalfak.ir`.
 
-For more details:
-- [CONTRIBUTING.md](./CONTRIBUTING.md) - Contributing guide
-- [SECURITY.md](./SECURITY.md) - Security policy
+Для получения дополнительной информации:
+- [CONTRIBUTING.md](./CONTRIBUTING.md) - Руководство по вкладу
+- [SECURITY.md](./SECURITY.md) - Политика безопасности
 
 ---
 
 <div align="center">
 
-**⭐ If this project was useful to you, please give it a Star! ⭐**
+**⭐ Если этот проект был полезен вам, пожалуйста, поставьте звезду! ⭐**
 
 [![GitHub stars](https://img.shields.io/github/stars/MrAlfak/API-Security-Checklist.svg?style=social&label=Star)](https://github.com/MrAlfak/API-Security-Checklist)
 
@@ -667,30 +667,30 @@ For more details:
 
 <div align="center">
 
-**Made with ❤️ for the developer community**
+**Сделано с ❤️ для сообщества разработчиков**
 
-[API-Security-Checklist on GitHub](https://github.com/MrAlfak/API-Security-Checklist)
+[Чеклист безопасности API на GitHub](https://github.com/MrAlfak/API-Security-Checklist)
 
 </div>
 
 ---
 
-## 📋 Translation TODO List
+## 📋 Список TODO Переводов
 
-This section tracks the progress of translating the API Security Checklist into different languages.
+Этот раздел отслеживает прогресс перевода Чеклиста безопасности API на разные языки.
 
-### ✅ Completed Translations
-- [x] 🇮🇷 Persian (فارسی) - `Readme.md`
-- [x] 🇬🇧 English - `README.en.md`
-- [x] 🇸🇦 Arabic (العربية) - `README.ar.md`
+### ✅ Завершенные Переводы
+- [x] 🇮🇷 Персидский (فارسی) - `Readme.md`
+- [x] 🇬🇧 Английский - `README.en.md`
+- [x] 🇸🇦 Арабский (العربية) - `README.ar.md`
+- [x] 🇪🇸 Испанский - `README.es.md`
+- [x] 🇫🇷 Французский - `README.fr.md`
+- [x] 🇩🇪 Немецкий - `README.de.md`
+- [x] 🇨🇳 Китайский (упрощенный) - `README.zh-cn.md`
+- [x] 🇯🇵 Японский - `README.ja.md`
+- [x] 🇷🇺 Русский - `README.ru.md`
 
-### 🚧 In Progress
-- [ ] 🇪🇸 Spanish (Español) - `README.es.md`
-- [ ] 🇫🇷 French (Français) - `README.fr.md`
-- [ ] 🇩🇪 German (Deutsch) - `README.de.md`
-- [ ] 🇨🇳 Chinese Simplified (简体中文) - `README.zh-cn.md`
-- [ ] 🇯🇵 Japanese (日本語) - `README.ja.md`
-- [ ] 🇷🇺 Russian (Русский) - `README.ru.md`
+### 🚧 В Процессе
 - [ ] 🇵🇹 Portuguese (Português) - `README.pt.md`
 - [ ] 🇮🇹 Italian (Italiano) - `README.it.md`
 - [ ] 🇹🇷 Turkish (Türkçe) - `README.tr.md`
