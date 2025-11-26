@@ -9,9 +9,20 @@
 
 ## 🌍 زبان‌ها / Languages
 
-- 🇮🇷 [فارسی (Persian)](./Readme.md) - نسخه فعلی
+- 🇮🇷 [فارسی (Persian)](./Readme.md) - Current
 - 🇬🇧 [English](./README.en.md)
 - 🇸🇦 [العربية (Arabic)](./README.ar.md)
+- 🇪🇸 [Español (Spanish)](./README.es.md)
+- 🇫🇷 [Français (French)](./README.fr.md)
+- 🇩🇪 [Deutsch (German)](./README.de.md)
+- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md)
+- 🇯🇵 [日本語 (Japanese)](./README.ja.md)
+- 🇷🇺 [Русский (Russian)](./README.ru.md)
+- 🇵🇹 [Português (Portuguese)](./README.pt.md)
+- 🇮🇹 [Italiano (Italian)](./README.it.md)
+- 🇹🇷 [Türkçe (Turkish)](./README.tr.md)
+- 🇮🇳 [हिन्दी (Hindi)](./README.hi.md)
+- 🇰🇷 [한국어 (Korean)](./README.ko.md)
 
 ---
 
@@ -40,6 +51,23 @@
 2. قبل از هر deployment، چک‌لیست را مرور کنید
 3. موارد مربوط به پروژه خود را تیک بزنید
 4. در صورت نیاز، Pull Request ارسال کنید
+
+---
+
+## 💰 حمایت مالی
+
+<div align="center">
+
+اگر این پروژه برای شما مفید بوده است، می‌توانید از طریق روش‌های زیر از ما حمایت کنید:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
+
+**لینک‌های مستقیم:**
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/zahedalfak)
+- 🎁 [Ko-fi](https://ko-fi.com/zahedalfak)
+
+</div>
 
 ---
 
@@ -572,19 +600,6 @@
 
 ---
 
-## 💰 حمایت مالی
-
-<div align="center">
-
-اگر این پروژه برای شما مفید بوده است، می‌توانید از طریق روش‌های زیر از ما حمایت کنید:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
-
-</div>
-
----
-
 ## 🤝 مشارکت
 
 برای همکاری و کمک می‌توانید به راحتی این مخزن را fork کنید، تغییرات مورد نظرت را اعمال کنید و یک pull request ثبت کنید. 
@@ -601,7 +616,7 @@
 
 **⭐ اگر این پروژه برای شما مفید بود، لطفاً Star بدهید! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/MrAlfak/API-Security-Checklist.svg?style=social&label=Star)](https://github.com/MrAlfak/API-Security-Checklist)
+[![GitHub stars](https://img.shields.io/github/stars/MrAlfak/regex.svg?style=social&label=Star)](https://github.com/MrAlfak/regex)
 
 </div>
 
@@ -1047,7 +1062,7 @@ print(matches)  # ['Hello', 'hello', 'HELLO']
 
 **ساخته شده با ❤️ برای جامعه توسعه‌دهندگان**
 
-[API-Security-Checklist on GitHub](https://github.com/MrAlfak/API-Security-Checklist)
+[Regex Guide on GitHub](https://github.com/MrAlfak/regex)
 
 </div>
 

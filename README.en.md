@@ -8,12 +8,19 @@
 ## 🌍 Languages / اللغة
 
 - 🇮🇷 [فارسی (Persian)](./Readme.md)
-- 🇬🇧 [English](./README.en.md) - Current version
+- 🇬🇧 [English](./README.en.md) - Current
 - 🇸🇦 [العربية (Arabic)](./README.ar.md)
-
----
-
-## 📖 About the Project
+- 🇪🇸 [Español (Spanish)](./README.es.md)
+- 🇫🇷 [Français (French)](./README.fr.md)
+- 🇩🇪 [Deutsch (German)](./README.de.md)
+- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md)
+- 🇯🇵 [日本語 (Japanese)](./README.ja.md)
+- 🇷🇺 [Русский (Russian)](./README.ru.md)
+- 🇵🇹 [Português (Portuguese)](./README.pt.md)
+- 🇮🇹 [Italiano (Italian)](./README.it.md)
+- 🇹🇷 [Türkçe (Turkish)](./README.tr.md)
+- 🇮🇳 [हिन्दी (Hindi)](./README.hi.md)
+- 🇰🇷 [한국어 (Korean)](./README.ko.md)
 
 ---
 
@@ -42,6 +49,19 @@ This project is a **comprehensive and practical checklist** for API security tha
 2. Review the checklist before each deployment
 3. Check off items relevant to your project
 4. Submit a Pull Request if needed
+
+---
+
+## 💰 Funding
+
+<div align="center">
+
+If this project has been useful to you, you can support us through the following methods:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
+
+</div>
 
 ---
 
@@ -571,19 +591,6 @@ These items **must** be reviewed before each production deployment:
 
 - [API Security in Action](https://www.manning.com/books/api-security-in-action) - Comprehensive API security book
 - [Web Application Security](https://owasp.org/www-project-web-security-testing-guide/) - Web security testing guide
-
----
-
-## 💰 Funding
-
-<div align="center">
-
-If this project has been useful to you, you can support us through the following methods:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
-
-</div>
 
 ---
 
