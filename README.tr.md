@@ -1,27 +1,27 @@
-# 🔒 API Security Checklist
+# 🔒 API Güvenlik Kontrol Listesi
 
-> **A comprehensive and practical checklist** of the most important tasks that must be performed to maintain security during API design, development, testing, and deployment.
+> API tasarımı, geliştirme, test ve dağıtım sırasında güvenliği korumak için gerçekleştirilmesi gereken en önemli görevlerin **kapsamlı ve pratik bir kontrol listesi**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-## 🌍 Languages / اللغة
+## 🌍 Diller / Languages
 
-### Available Now
+### Şu Anda Mevcut
 - 🇮🇷 [فارسی (Persian)](./Readme.md)
-- 🇬🇧 [English](./README.en.md) - Current
+- 🇬🇧 [English](./README.en.md)
 - 🇸🇦 [العربية (Arabic)](./README.ar.md)
+- 🇪🇸 [Español (Spanish)](./README.es.md)
+- 🇫🇷 [Français (French)](./README.fr.md)
+- 🇩🇪 [Deutsch (German)](./README.de.md)
+- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md)
+- 🇯🇵 [日本語 (Japanese)](./README.ja.md)
+- 🇷🇺 [Русский (Russian)](./README.ru.md)
+- 🇵🇹 [Português (Portuguese)](./README.pt.md)
+- 🇮🇹 [Italiano (Italian)](./README.it.md)
+- 🇹🇷 [Türkçe (Turkish)](./README.tr.md) - Mevcut
 
-### In Progress
-- 🇪🇸 [Español (Spanish)](./README.es.md) - 🚧
-- 🇫🇷 [Français (French)](./README.fr.md) - 🚧
-- 🇩🇪 [Deutsch (German)](./README.de.md) - 🚧
-- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md) - 🚧
-- 🇯🇵 [日本語 (Japanese)](./README.ja.md) - 🚧
-- 🇷🇺 [Русский (Russian)](./README.ru.md) - 🚧
-- 🇵🇹 [Português (Portuguese)](./README.pt.md) - 🚧
-- 🇮🇹 [Italiano (Italian)](./README.it.md) - 🚧
-- 🇹🇷 [Türkçe (Turkish)](./README.tr.md) - 🚧
+### Devam Ediyor
 - 🇮🇳 [हिन्दी (Hindi)](./README.hi.md) - 🚧
 - 🇰🇷 [한국어 (Korean)](./README.ko.md) - 🚧
 - 🇳🇱 [Nederlands (Dutch)](./README.nl.md) - 🚧
@@ -73,39 +73,39 @@
 
 ---
 
-## 📖 About the Project
+## 📖 Proje Hakkında
 
-This project is a **comprehensive and practical checklist** for API security that helps developers design, develop, and deploy their APIs securely.
+Bu proje, geliştiricilerin API'lerini güvenli bir şekilde tasarlamasına, geliştirmesine ve dağıtmasına yardımcı olan API güvenliği için **kapsamlı ve pratik bir kontrol listesi**dir.
 
-### ✨ Features
+### ✨ Özellikler
 
-- 🔒 **Comprehensive Coverage**: Includes all aspects of API security from authentication to CI/CD
-- 📝 **Practical and Usable**: Each item includes explanations and practical examples
-- 🎯 **Well-Organized**: Categorized by security domains
-- 🔄 **Continuously Updated**: Keeps pace with the latest standards and best practices
-- 🌍 **Multi-language Support**: Available in Persian, English, and Arabic
+- 🔒 **Kapsamlı Kapsam**: Kimlik doğrulamadan CI/CD'ye kadar API güvenliğinin tüm yönlerini içerir
+- 📝 **Pratik ve Kullanılabilir**: Her öğe açıklamalar ve pratik örnekler içerir
+- 🎯 **İyi Organize Edilmiş**: Güvenlik alanlarına göre kategorize edilmiştir
+- 🔄 **Sürekli Güncellenir**: En son standartlar ve en iyi uygulamalarla uyumlu kalır
+- 🌍 **Çok Dilli Destek**: Farsça, İngilizce, Arapça, İspanyolca, Fransızca, Almanca, Çince, Japonca, Rusça, Portekizce, İtalyanca ve Türkçe olarak mevcuttur
 
-### 🎯 Who is it for?
+### 🎯 Kimler İçin?
 
-- Backend developers building APIs
-- DevOps and Security teams
-- Software architects and Technical Leads
-- Students and security enthusiasts
+- API oluşturan Backend geliştiriciler
+- DevOps ve Güvenlik ekipleri
+- Yazılım mimarları ve Teknik Liderler
+- Öğrenciler ve güvenlik meraklıları
 
-### 🚀 Quick Start
+### 🚀 Hızlı Başlangıç
 
-1. Star this repository to stay updated
-2. Review the checklist before each deployment
-3. Check off items relevant to your project
-4. Submit a Pull Request if needed
+1. Güncel kalmak için bu depoyu yıldızlayın
+2. Her dağıtımdan önce kontrol listesini gözden geçirin
+3. Projenizle ilgili öğeleri işaretleyin
+4. Gerekirse bir Pull Request gönderin
 
 ---
 
-## 💰 Funding
+## 💰 Finansman
 
 <div align="center">
 
-If this project has been useful to you, you can support us through the following methods:
+Bu proje size faydalı olduysa, aşağıdaki yöntemlerle bizi destekleyebilirsiniz:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
@@ -643,21 +643,21 @@ These items **must** be reviewed before each production deployment:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Katkıda Bulunma
 
-You can easily fork this repository, apply your desired changes, and submit a pull request.
+Bu depoyu kolayca çatallayabilir, istediğiniz değişiklikleri uygulayabilir ve bir pull request gönderebilirsiniz.
 
-If you have any questions, email us at `info@zahedalfak.ir`.
+Herhangi bir sorunuz varsa, bize `info@zahedalfak.ir` adresinden e-posta gönderin.
 
-For more details:
-- [CONTRIBUTING.md](./CONTRIBUTING.md) - Contributing guide
-- [SECURITY.md](./SECURITY.md) - Security policy
+Daha fazla bilgi için:
+- [CONTRIBUTING.md](./CONTRIBUTING.md) - Katkı rehberi
+- [SECURITY.md](./SECURITY.md) - Güvenlik politikası
 
 ---
 
 <div align="center">
 
-**⭐ If this project was useful to you, please give it a Star! ⭐**
+**⭐ Bu proje size faydalı olduysa, lütfen bir Yıldız verin! ⭐**
 
 [![GitHub stars](https://img.shields.io/github/stars/MrAlfak/API-Security-Checklist.svg?style=social&label=Star)](https://github.com/MrAlfak/API-Security-Checklist)
 
@@ -667,33 +667,33 @@ For more details:
 
 <div align="center">
 
-**Made with ❤️ for the developer community**
+**Geliştirici topluluğu için ❤️ ile yapıldı**
 
-[API-Security-Checklist on GitHub](https://github.com/MrAlfak/API-Security-Checklist)
+[GitHub'da API Güvenlik Kontrol Listesi](https://github.com/MrAlfak/API-Security-Checklist)
 
 </div>
 
 ---
 
-## 📋 Translation TODO List
+## 📋 Çeviri TODO Listesi
 
-This section tracks the progress of translating the API Security Checklist into different languages.
+Bu bölüm, API Güvenlik Kontrol Listesinin farklı dillere çevrilmesinin ilerlemesini takip eder.
 
-### ✅ Completed Translations
-- [x] 🇮🇷 Persian (فارسی) - `Readme.md`
-- [x] 🇬🇧 English - `README.en.md`
-- [x] 🇸🇦 Arabic (العربية) - `README.ar.md`
+### ✅ Tamamlanan Çeviriler
+- [x] 🇮🇷 Farsça (فارسی) - `Readme.md`
+- [x] 🇬🇧 İngilizce - `README.en.md`
+- [x] 🇸🇦 Arapça (العربية) - `README.ar.md`
+- [x] 🇪🇸 İspanyolca - `README.es.md`
+- [x] 🇫🇷 Fransızca - `README.fr.md`
+- [x] 🇩🇪 Almanca - `README.de.md`
+- [x] 🇨🇳 Basitleştirilmiş Çince - `README.zh-cn.md`
+- [x] 🇯🇵 Japonca - `README.ja.md`
+- [x] 🇷🇺 Rusça - `README.ru.md`
+- [x] 🇵🇹 Portekizce - `README.pt.md`
+- [x] 🇮🇹 İtalyanca - `README.it.md`
+- [x] 🇹🇷 Türkçe - `README.tr.md`
 
-### 🚧 In Progress
-- [ ] 🇪🇸 Spanish (Español) - `README.es.md`
-- [ ] 🇫🇷 French (Français) - `README.fr.md`
-- [ ] 🇩🇪 German (Deutsch) - `README.de.md`
-- [ ] 🇨🇳 Chinese Simplified (简体中文) - `README.zh-cn.md`
-- [ ] 🇯🇵 Japanese (日本語) - `README.ja.md`
-- [ ] 🇷🇺 Russian (Русский) - `README.ru.md`
-- [ ] 🇵🇹 Portuguese (Português) - `README.pt.md`
-- [ ] 🇮🇹 Italian (Italiano) - `README.it.md`
-- [ ] 🇹🇷 Turkish (Türkçe) - `README.tr.md`
+### 🚧 Devam Ediyor
 - [ ] 🇮🇳 Hindi (हिन्दी) - `README.hi.md`
 - [ ] 🇰🇷 Korean (한국어) - `README.ko.md`
 
