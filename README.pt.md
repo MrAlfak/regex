@@ -1,25 +1,25 @@
-# 🔒 API Security Checklist
+# 🔒 Lista de Verificação de Segurança API
 
-> **A comprehensive and practical checklist** of the most important tasks that must be performed to maintain security during API design, development, testing, and deployment.
+> **Uma lista de verificação abrangente e prática** das tarefas mais importantes que devem ser realizadas para manter a segurança durante o design, desenvolvimento, testes e implantação de API.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-## 🌍 Languages / اللغة
+## 🌍 Idiomas / Languages
 
-### Available Now
+### Disponível Agora
 - 🇮🇷 [فارسی (Persian)](./Readme.md)
-- 🇬🇧 [English](./README.en.md) - Current
+- 🇬🇧 [English](./README.en.md)
 - 🇸🇦 [العربية (Arabic)](./README.ar.md)
+- 🇪🇸 [Español (Spanish)](./README.es.md)
+- 🇫🇷 [Français (French)](./README.fr.md)
+- 🇩🇪 [Deutsch (German)](./README.de.md)
+- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md)
+- 🇯🇵 [日本語 (Japanese)](./README.ja.md)
+- 🇷🇺 [Русский (Russian)](./README.ru.md)
+- 🇵🇹 [Português (Portuguese)](./README.pt.md) - Atual
 
-### In Progress
-- 🇪🇸 [Español (Spanish)](./README.es.md) - 🚧
-- 🇫🇷 [Français (French)](./README.fr.md) - 🚧
-- 🇩🇪 [Deutsch (German)](./README.de.md) - 🚧
-- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md) - 🚧
-- 🇯🇵 [日本語 (Japanese)](./README.ja.md) - 🚧
-- 🇷🇺 [Русский (Russian)](./README.ru.md) - 🚧
-- 🇵🇹 [Português (Portuguese)](./README.pt.md) - 🚧
+### Em Progresso
 - 🇮🇹 [Italiano (Italian)](./README.it.md) - 🚧
 - 🇹🇷 [Türkçe (Turkish)](./README.tr.md) - 🚧
 - 🇮🇳 [हिन्दी (Hindi)](./README.hi.md) - 🚧
@@ -73,39 +73,39 @@
 
 ---
 
-## 📖 About the Project
+## 📖 Sobre o Projeto
 
-This project is a **comprehensive and practical checklist** for API security that helps developers design, develop, and deploy their APIs securely.
+Este projeto é uma **lista de verificação abrangente e prática** para segurança de API que ajuda desenvolvedores a projetar, desenvolver e implantar suas APIs com segurança.
 
-### ✨ Features
+### ✨ Características
 
-- 🔒 **Comprehensive Coverage**: Includes all aspects of API security from authentication to CI/CD
-- 📝 **Practical and Usable**: Each item includes explanations and practical examples
-- 🎯 **Well-Organized**: Categorized by security domains
-- 🔄 **Continuously Updated**: Keeps pace with the latest standards and best practices
-- 🌍 **Multi-language Support**: Available in Persian, English, and Arabic
+- 🔒 **Cobertura Abrangente**: Inclui todos os aspectos de segurança de API desde autenticação até CI/CD
+- 📝 **Prático e Utilizável**: Cada item inclui explicações e exemplos práticos
+- 🎯 **Bem Organizado**: Categorizado por domínios de segurança
+- 🔄 **Atualizado Continuamente**: Mantém-se atualizado com os últimos padrões e melhores práticas
+- 🌍 **Suporte Multi-idioma**: Disponível em persa, inglês, árabe, espanhol, francês, alemão, chinês, japonês, russo e português
 
-### 🎯 Who is it for?
+### 🎯 Para Quem?
 
-- Backend developers building APIs
-- DevOps and Security teams
-- Software architects and Technical Leads
-- Students and security enthusiasts
+- Desenvolvedores Backend que constroem APIs
+- Equipes DevOps e Segurança
+- Arquitetos de software e Líderes Técnicos
+- Estudantes e entusiastas de segurança
 
-### 🚀 Quick Start
+### 🚀 Início Rápido
 
-1. Star this repository to stay updated
-2. Review the checklist before each deployment
-3. Check off items relevant to your project
-4. Submit a Pull Request if needed
+1. Dê uma estrela a este repositório para se manter atualizado
+2. Revise a lista de verificação antes de cada implantação
+3. Marque os itens relevantes para seu projeto
+4. Envie um Pull Request se necessário
 
 ---
 
-## 💰 Funding
+## 💰 Financiamento
 
 <div align="center">
 
-If this project has been useful to you, you can support us through the following methods:
+Se este projeto foi útil para você, você pode nos apoiar através dos seguintes métodos:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
@@ -643,21 +643,21 @@ These items **must** be reviewed before each production deployment:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contribuindo
 
-You can easily fork this repository, apply your desired changes, and submit a pull request.
+Você pode facilmente fazer fork deste repositório, aplicar as alterações desejadas e enviar um pull request.
 
-If you have any questions, email us at `info@zahedalfak.ir`.
+Se você tiver alguma dúvida, envie-nos um e-mail em `info@zahedalfak.ir`.
 
-For more details:
-- [CONTRIBUTING.md](./CONTRIBUTING.md) - Contributing guide
-- [SECURITY.md](./SECURITY.md) - Security policy
+Para mais detalhes:
+- [CONTRIBUTING.md](./CONTRIBUTING.md) - Guia de contribuição
+- [SECURITY.md](./SECURITY.md) - Política de segurança
 
 ---
 
 <div align="center">
 
-**⭐ If this project was useful to you, please give it a Star! ⭐**
+**⭐ Se este projeto foi útil para você, por favor dê uma Estrela! ⭐**
 
 [![GitHub stars](https://img.shields.io/github/stars/MrAlfak/API-Security-Checklist.svg?style=social&label=Star)](https://github.com/MrAlfak/API-Security-Checklist)
 
@@ -667,31 +667,31 @@ For more details:
 
 <div align="center">
 
-**Made with ❤️ for the developer community**
+**Feito com ❤️ para a comunidade de desenvolvedores**
 
-[API-Security-Checklist on GitHub](https://github.com/MrAlfak/API-Security-Checklist)
+[Lista de Verificação de Segurança API no GitHub](https://github.com/MrAlfak/API-Security-Checklist)
 
 </div>
 
 ---
 
-## 📋 Translation TODO List
+## 📋 Lista TODO de Tradução
 
-This section tracks the progress of translating the API Security Checklist into different languages.
+Esta seção rastreia o progresso da tradução da Lista de Verificação de Segurança API para diferentes idiomas.
 
-### ✅ Completed Translations
-- [x] 🇮🇷 Persian (فارسی) - `Readme.md`
-- [x] 🇬🇧 English - `README.en.md`
-- [x] 🇸🇦 Arabic (العربية) - `README.ar.md`
+### ✅ Traduções Concluídas
+- [x] 🇮🇷 Persa (فارسی) - `Readme.md`
+- [x] 🇬🇧 Inglês - `README.en.md`
+- [x] 🇸🇦 Árabe (العربية) - `README.ar.md`
+- [x] 🇪🇸 Espanhol - `README.es.md`
+- [x] 🇫🇷 Francês - `README.fr.md`
+- [x] 🇩🇪 Alemão - `README.de.md`
+- [x] 🇨🇳 Chinês Simplificado - `README.zh-cn.md`
+- [x] 🇯🇵 Japonês - `README.ja.md`
+- [x] 🇷🇺 Russo - `README.ru.md`
+- [x] 🇵🇹 Português - `README.pt.md`
 
-### 🚧 In Progress
-- [ ] 🇪🇸 Spanish (Español) - `README.es.md`
-- [ ] 🇫🇷 French (Français) - `README.fr.md`
-- [ ] 🇩🇪 German (Deutsch) - `README.de.md`
-- [ ] 🇨🇳 Chinese Simplified (简体中文) - `README.zh-cn.md`
-- [ ] 🇯🇵 Japanese (日本語) - `README.ja.md`
-- [ ] 🇷🇺 Russian (Русский) - `README.ru.md`
-- [ ] 🇵🇹 Portuguese (Português) - `README.pt.md`
+### 🚧 Em Progresso
 - [ ] 🇮🇹 Italian (Italiano) - `README.it.md`
 - [ ] 🇹🇷 Turkish (Türkçe) - `README.tr.md`
 - [ ] 🇮🇳 Hindi (हिन्दी) - `README.hi.md`
