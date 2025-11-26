@@ -578,35 +578,8 @@
 
 إذا كان هذا المشروع مفيداً لك، يمكنك دعمنا من خلال الطرق التالية:
 
-### 💵 الدفع بالدولار
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
-
-### ₿ العملات المشفرة
-
-**Bitcoin (BTC)**
-```
-bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
-```
-
-**Ethereum (ETH)**
-```
-0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb
-```
-
-**USDT (TRC20)**
-```
-TXYZabcdefghijklmnopqrstuvwxyz123456
-```
-
-**USDT (ERC20)**
-```
-0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb
-```
-
-> 💡 **ملاحظة**: استبدل عناوين العملات المشفرة وروابط الدفع بعناوينك الحقيقية.
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
 
 </div>
 
