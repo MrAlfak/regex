@@ -1,22 +1,22 @@
-# 🔒 API Security Checklist
+# 🔒 API 安全清单
 
-> **A comprehensive and practical checklist** of the most important tasks that must be performed to maintain security during API design, development, testing, and deployment.
+> **一份全面实用的清单**，列出了在 API 设计、开发、测试和部署过程中必须执行的最重要任务，以维护安全性。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-## 🌍 Languages / اللغة
+## 🌍 语言 / Languages
 
-### Available Now
+### 现已提供
 - 🇮🇷 [فارسی (Persian)](./Readme.md)
-- 🇬🇧 [English](./README.en.md) - Current
+- 🇬🇧 [English](./README.en.md)
 - 🇸🇦 [العربية (Arabic)](./README.ar.md)
+- 🇪🇸 [Español (Spanish)](./README.es.md)
+- 🇫🇷 [Français (French)](./README.fr.md)
+- 🇩🇪 [Deutsch (German)](./README.de.md)
+- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md) - 当前版本
 
-### In Progress
-- 🇪🇸 [Español (Spanish)](./README.es.md) - 🚧
-- 🇫🇷 [Français (French)](./README.fr.md) - 🚧
-- 🇩🇪 [Deutsch (German)](./README.de.md) - 🚧
-- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md) - 🚧
+### 进行中
 - 🇯🇵 [日本語 (Japanese)](./README.ja.md) - 🚧
 - 🇷🇺 [Русский (Russian)](./README.ru.md) - 🚧
 - 🇵🇹 [Português (Portuguese)](./README.pt.md) - 🚧
@@ -73,39 +73,39 @@
 
 ---
 
-## 📖 About the Project
+## 📖 关于项目
 
-This project is a **comprehensive and practical checklist** for API security that helps developers design, develop, and deploy their APIs securely.
+这个项目是一个**全面实用的清单**，用于 API 安全，帮助开发人员安全地设计、开发和部署他们的 API。
 
-### ✨ Features
+### ✨ 特性
 
-- 🔒 **Comprehensive Coverage**: Includes all aspects of API security from authentication to CI/CD
-- 📝 **Practical and Usable**: Each item includes explanations and practical examples
-- 🎯 **Well-Organized**: Categorized by security domains
-- 🔄 **Continuously Updated**: Keeps pace with the latest standards and best practices
-- 🌍 **Multi-language Support**: Available in Persian, English, and Arabic
+- 🔒 **全面覆盖**：包括从身份验证到 CI/CD 的 API 安全的所有方面
+- 📝 **实用且可用**：每个项目都包含解释和实际示例
+- 🎯 **组织良好**：按安全域分类
+- 🔄 **持续更新**：跟上最新标准和最佳实践
+- 🌍 **多语言支持**：提供波斯语、英语、阿拉伯语、西班牙语、法语、德语和中文
 
-### 🎯 Who is it for?
+### 🎯 适合谁？
 
-- Backend developers building APIs
-- DevOps and Security teams
-- Software architects and Technical Leads
-- Students and security enthusiasts
+- 构建 API 的后端开发人员
+- DevOps 和安全团队
+- 软件架构师和技术负责人
+- 学生和安全爱好者
 
-### 🚀 Quick Start
+### 🚀 快速开始
 
-1. Star this repository to stay updated
-2. Review the checklist before each deployment
-3. Check off items relevant to your project
-4. Submit a Pull Request if needed
+1. 给这个仓库加星以保持更新
+2. 在每次部署前查看清单
+3. 勾选与您的项目相关的项目
+4. 如需要，提交 Pull Request
 
 ---
 
-## 💰 Funding
+## 💰 资助
 
 <div align="center">
 
-If this project has been useful to you, you can support us through the following methods:
+如果这个项目对您有用，您可以通过以下方式支持我们：
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
@@ -643,21 +643,21 @@ These items **must** be reviewed before each production deployment:
 
 ---
 
-## 🤝 Contributing
+## 🤝 贡献
 
-You can easily fork this repository, apply your desired changes, and submit a pull request.
+您可以轻松地 fork 此仓库，应用您想要的更改，并提交 pull request。
 
-If you have any questions, email us at `info@zahedalfak.ir`.
+如果您有任何问题，请发送电子邮件至 `info@zahedalfak.ir`。
 
-For more details:
-- [CONTRIBUTING.md](./CONTRIBUTING.md) - Contributing guide
-- [SECURITY.md](./SECURITY.md) - Security policy
+更多详情：
+- [CONTRIBUTING.md](./CONTRIBUTING.md) - 贡献指南
+- [SECURITY.md](./SECURITY.md) - 安全政策
 
 ---
 
 <div align="center">
 
-**⭐ If this project was useful to you, please give it a Star! ⭐**
+**⭐ 如果这个项目对您有用，请给它一个星标！⭐**
 
 [![GitHub stars](https://img.shields.io/github/stars/MrAlfak/API-Security-Checklist.svg?style=social&label=Star)](https://github.com/MrAlfak/API-Security-Checklist)
 
@@ -667,28 +667,28 @@ For more details:
 
 <div align="center">
 
-**Made with ❤️ for the developer community**
+**为开发者社区用 ❤️ 制作**
 
-[API-Security-Checklist on GitHub](https://github.com/MrAlfak/API-Security-Checklist)
+[GitHub 上的 API 安全清单](https://github.com/MrAlfak/API-Security-Checklist)
 
 </div>
 
 ---
 
-## 📋 Translation TODO List
+## 📋 翻译待办事项列表
 
-This section tracks the progress of translating the API Security Checklist into different languages.
+此部分跟踪将 API 安全清单翻译成不同语言的进度。
 
-### ✅ Completed Translations
-- [x] 🇮🇷 Persian (فارسی) - `Readme.md`
-- [x] 🇬🇧 English - `README.en.md`
-- [x] 🇸🇦 Arabic (العربية) - `README.ar.md`
+### ✅ 已完成的翻译
+- [x] 🇮🇷 波斯语 (فارسی) - `Readme.md`
+- [x] 🇬🇧 英语 - `README.en.md`
+- [x] 🇸🇦 阿拉伯语 (العربية) - `README.ar.md`
+- [x] 🇪🇸 西班牙语 - `README.es.md`
+- [x] 🇫🇷 法语 - `README.fr.md`
+- [x] 🇩🇪 德语 - `README.de.md`
+- [x] 🇨🇳 简体中文 - `README.zh-cn.md`
 
-### 🚧 In Progress
-- [ ] 🇪🇸 Spanish (Español) - `README.es.md`
-- [ ] 🇫🇷 French (Français) - `README.fr.md`
-- [ ] 🇩🇪 German (Deutsch) - `README.de.md`
-- [ ] 🇨🇳 Chinese Simplified (简体中文) - `README.zh-cn.md`
+### 🚧 进行中
 - [ ] 🇯🇵 Japanese (日本語) - `README.ja.md`
 - [ ] 🇷🇺 Russian (Русский) - `README.ru.md`
 - [ ] 🇵🇹 Portuguese (Português) - `README.pt.md`
