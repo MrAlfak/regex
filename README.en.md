@@ -7,20 +7,69 @@
 
 ## 🌍 Languages / اللغة
 
+### Available Now
 - 🇮🇷 [فارسی (Persian)](./Readme.md)
 - 🇬🇧 [English](./README.en.md) - Current
 - 🇸🇦 [العربية (Arabic)](./README.ar.md)
-- 🇪🇸 [Español (Spanish)](./README.es.md)
-- 🇫🇷 [Français (French)](./README.fr.md)
-- 🇩🇪 [Deutsch (German)](./README.de.md)
-- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md)
-- 🇯🇵 [日本語 (Japanese)](./README.ja.md)
-- 🇷🇺 [Русский (Russian)](./README.ru.md)
-- 🇵🇹 [Português (Portuguese)](./README.pt.md)
-- 🇮🇹 [Italiano (Italian)](./README.it.md)
-- 🇹🇷 [Türkçe (Turkish)](./README.tr.md)
-- 🇮🇳 [हिन्दी (Hindi)](./README.hi.md)
-- 🇰🇷 [한국어 (Korean)](./README.ko.md)
+
+### In Progress
+- 🇪🇸 [Español (Spanish)](./README.es.md) - 🚧
+- 🇫🇷 [Français (French)](./README.fr.md) - 🚧
+- 🇩🇪 [Deutsch (German)](./README.de.md) - 🚧
+- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md) - 🚧
+- 🇯🇵 [日本語 (Japanese)](./README.ja.md) - 🚧
+- 🇷🇺 [Русский (Russian)](./README.ru.md) - 🚧
+- 🇵🇹 [Português (Portuguese)](./README.pt.md) - 🚧
+- 🇮🇹 [Italiano (Italian)](./README.it.md) - 🚧
+- 🇹🇷 [Türkçe (Turkish)](./README.tr.md) - 🚧
+- 🇮🇳 [हिन्दी (Hindi)](./README.hi.md) - 🚧
+- 🇰🇷 [한국어 (Korean)](./README.ko.md) - 🚧
+- 🇳🇱 [Nederlands (Dutch)](./README.nl.md) - 🚧
+- 🇵🇱 [Polski (Polish)](./README.pl.md) - 🚧
+- 🇨🇿 [Čeština (Czech)](./README.cs.md) - 🚧
+- 🇸🇪 [Svenska (Swedish)](./README.sv.md) - 🚧
+- 🇳🇴 [Norsk (Norwegian)](./README.no.md) - 🚧
+- 🇩🇰 [Dansk (Danish)](./README.da.md) - 🚧
+- 🇫🇮 [Suomi (Finnish)](./README.fi.md) - 🚧
+- 🇬🇷 [Ελληνικά (Greek)](./README.el.md) - 🚧
+- 🇷🇴 [Română (Romanian)](./README.ro.md) - 🚧
+- 🇭🇺 [Magyar (Hungarian)](./README.hu.md) - 🚧
+- 🇧🇬 [Български (Bulgarian)](./README.bg.md) - 🚧
+- 🇭🇷 [Hrvatski (Croatian)](./README.hr.md) - 🚧
+- 🇸🇰 [Slovenčina (Slovak)](./README.sk.md) - 🚧
+- 🇸🇮 [Slovenščina (Slovenian)](./README.sl.md) - 🚧
+- 🇱🇹 [Lietuvių (Lithuanian)](./README.lt.md) - 🚧
+- 🇱🇻 [Latviešu (Latvian)](./README.lv.md) - 🚧
+- 🇪🇪 [Eesti (Estonian)](./README.et.md) - 🚧
+- 🇮🇩 [Bahasa Indonesia (Indonesian)](./README.id.md) - 🚧
+- 🇲🇾 [Bahasa Melayu (Malay)](./README.ms.md) - 🚧
+- 🇹🇭 [ไทย (Thai)](./README.th.md) - 🚧
+- 🇻🇳 [Tiếng Việt (Vietnamese)](./README.vi.md) - 🚧
+- 🇵🇭 [Filipino (Tagalog)](./README.tl.md) - 🚧
+- 🇺🇦 [Українська (Ukrainian)](./README.uk.md) - 🚧
+- 🇧🇾 [Беларуская (Belarusian)](./README.be.md) - 🚧
+- 🇰🇿 [Қазақша (Kazakh)](./README.kk.md) - 🚧
+- 🇦🇿 [Azərbaycan (Azerbaijani)](./README.az.md) - 🚧
+- 🇬🇪 [ქართული (Georgian)](./README.ka.md) - 🚧
+- 🇦🇲 [Հայերեն (Armenian)](./README.hy.md) - 🚧
+- 🇮🇱 [עברית (Hebrew)](./README.he.md) - 🚧
+- 🇮🇷 [اردو (Urdu)](./README.ur.md) - 🚧
+- 🇧🇩 [বাংলা (Bengali)](./README.bn.md) - 🚧
+- 🇱🇰 [සිංහල (Sinhala)](./README.si.md) - 🚧
+- 🇳🇵 [नेपाली (Nepali)](./README.ne.md) - 🚧
+- 🇲🇲 [မြန်မာ (Burmese)](./README.my.md) - 🚧
+- 🇰🇭 [ខ្មែរ (Khmer)](./README.km.md) - 🚧
+- 🇱🇦 [ລາວ (Lao)](./README.lo.md) - 🚧
+- 🇪🇸 [Català (Catalan)](./README.ca.md) - 🚧
+- 🇪🇸 [Galego (Galician)](./README.gl.md) - 🚧
+- 🇪🇸 [Euskara (Basque)](./README.eu.md) - 🚧
+- 🇨🇭 [Schweizerdeutsch (Swiss German)](./README.gsw.md) - 🚧
+- 🇿🇦 [Afrikaans](./README.af.md) - 🚧
+- 🇪🇹 [አማርኛ (Amharic)](./README.am.md) - 🚧
+- 🇸🇴 [Soomaali (Somali)](./README.so.md) - 🚧
+- 🇰🇪 [Kiswahili (Swahili)](./README.sw.md) - 🚧
+- 🇳🇬 [Hausa](./README.ha.md) - 🚧
+- 🇿🇼 [isiZulu (Zulu)](./README.zu.md) - 🚧
 
 ---
 
@@ -623,4 +672,92 @@ For more details:
 [API-Security-Checklist on GitHub](https://github.com/MrAlfak/API-Security-Checklist)
 
 </div>
+
+---
+
+## 📋 Translation TODO List
+
+This section tracks the progress of translating the API Security Checklist into different languages.
+
+### ✅ Completed Translations
+- [x] 🇮🇷 Persian (فارسی) - `Readme.md`
+- [x] 🇬🇧 English - `README.en.md`
+- [x] 🇸🇦 Arabic (العربية) - `README.ar.md`
+
+### 🚧 In Progress
+- [ ] 🇪🇸 Spanish (Español) - `README.es.md`
+- [ ] 🇫🇷 French (Français) - `README.fr.md`
+- [ ] 🇩🇪 German (Deutsch) - `README.de.md`
+- [ ] 🇨🇳 Chinese Simplified (简体中文) - `README.zh-cn.md`
+- [ ] 🇯🇵 Japanese (日本語) - `README.ja.md`
+- [ ] 🇷🇺 Russian (Русский) - `README.ru.md`
+- [ ] 🇵🇹 Portuguese (Português) - `README.pt.md`
+- [ ] 🇮🇹 Italian (Italiano) - `README.it.md`
+- [ ] 🇹🇷 Turkish (Türkçe) - `README.tr.md`
+- [ ] 🇮🇳 Hindi (हिन्दी) - `README.hi.md`
+- [ ] 🇰🇷 Korean (한국어) - `README.ko.md`
+
+### 📝 Planned Translations
+- [ ] 🇳🇱 Dutch (Nederlands) - `README.nl.md`
+- [ ] 🇵🇱 Polish (Polski) - `README.pl.md`
+- [ ] 🇨🇿 Czech (Čeština) - `README.cs.md`
+- [ ] 🇸🇪 Swedish (Svenska) - `README.sv.md`
+- [ ] 🇳🇴 Norwegian (Norsk) - `README.no.md`
+- [ ] 🇩🇰 Danish (Dansk) - `README.da.md`
+- [ ] 🇫🇮 Finnish (Suomi) - `README.fi.md`
+- [ ] 🇬🇷 Greek (Ελληνικά) - `README.el.md`
+- [ ] 🇷🇴 Romanian (Română) - `README.ro.md`
+- [ ] 🇭🇺 Hungarian (Magyar) - `README.hu.md`
+- [ ] 🇧🇬 Bulgarian (Български) - `README.bg.md`
+- [ ] 🇭🇷 Croatian (Hrvatski) - `README.hr.md`
+- [ ] 🇸🇰 Slovak (Slovenčina) - `README.sk.md`
+- [ ] 🇸🇮 Slovenian (Slovenščina) - `README.sl.md`
+- [ ] 🇱🇹 Lithuanian (Lietuvių) - `README.lt.md`
+- [ ] 🇱🇻 Latvian (Latviešu) - `README.lv.md`
+- [ ] 🇪🇪 Estonian (Eesti) - `README.et.md`
+- [ ] 🇮🇩 Indonesian (Bahasa Indonesia) - `README.id.md`
+- [ ] 🇲🇾 Malay (Bahasa Melayu) - `README.ms.md`
+- [ ] 🇹🇭 Thai (ไทย) - `README.th.md`
+- [ ] 🇻🇳 Vietnamese (Tiếng Việt) - `README.vi.md`
+- [ ] 🇵🇭 Filipino (Tagalog) - `README.tl.md`
+- [ ] 🇺🇦 Ukrainian (Українська) - `README.uk.md`
+- [ ] 🇧🇾 Belarusian (Беларуская) - `README.be.md`
+- [ ] 🇰🇿 Kazakh (Қазақша) - `README.kk.md`
+- [ ] 🇦🇿 Azerbaijani (Azərbaycan) - `README.az.md`
+- [ ] 🇬🇪 Georgian (ქართული) - `README.ka.md`
+- [ ] 🇦🇲 Armenian (Հայերեն) - `README.hy.md`
+- [ ] 🇮🇱 Hebrew (עברית) - `README.he.md`
+- [ ] 🇮🇷 Urdu (اردو) - `README.ur.md`
+- [ ] 🇧🇩 Bengali (বাংলা) - `README.bn.md`
+- [ ] 🇱🇰 Sinhala (සිංහල) - `README.si.md`
+- [ ] 🇳🇵 Nepali (नेपाली) - `README.ne.md`
+- [ ] 🇲🇲 Burmese (မြန်မာ) - `README.my.md`
+- [ ] 🇰🇭 Khmer (ខ្មែរ) - `README.km.md`
+- [ ] 🇱🇦 Lao (ລາວ) - `README.lo.md`
+- [ ] 🇪🇸 Catalan (Català) - `README.ca.md`
+- [ ] 🇪🇸 Galician (Galego) - `README.gl.md`
+- [ ] 🇪🇸 Basque (Euskara) - `README.eu.md`
+- [ ] 🇨🇭 Swiss German (Schweizerdeutsch) - `README.gsw.md`
+- [ ] 🇿🇦 Afrikaans - `README.af.md`
+- [ ] 🇪🇹 Amharic (አማርኛ) - `README.am.md`
+- [ ] 🇸🇴 Somali (Soomaali) - `README.so.md`
+- [ ] 🇰🇪 Swahili (Kiswahili) - `README.sw.md`
+- [ ] 🇳🇬 Hausa - `README.ha.md`
+- [ ] 🇿🇼 Zulu (isiZulu) - `README.zu.md`
+
+### 🤝 Contributing Translations
+
+We welcome contributions! If you'd like to help translate this checklist into your language:
+
+1. Fork this repository
+2. Create a new file `README.[language-code].md` (e.g., `README.es.md` for Spanish)
+3. Translate the content from `README.en.md`
+4. Update the language list in all README files
+5. Submit a Pull Request
+
+**Note**: Please maintain the same structure, formatting, and emoji usage as the English version.
+
+---
+
+**Last Updated**: Check the commit history for the latest translation updates.
 
