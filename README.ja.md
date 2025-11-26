@@ -1,23 +1,23 @@
-# 🔒 API Security Checklist
+# 🔒 API セキュリティチェックリスト
 
-> **A comprehensive and practical checklist** of the most important tasks that must be performed to maintain security during API design, development, testing, and deployment.
+> API の設計、開発、テスト、デプロイ中にセキュリティを維持するために実行する必要がある最も重要なタスクの**包括的で実践的なチェックリスト**。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-## 🌍 Languages / اللغة
+## 🌍 言語 / Languages
 
-### Available Now
+### 利用可能
 - 🇮🇷 [فارسی (Persian)](./Readme.md)
-- 🇬🇧 [English](./README.en.md) - Current
+- 🇬🇧 [English](./README.en.md)
 - 🇸🇦 [العربية (Arabic)](./README.ar.md)
+- 🇪🇸 [Español (Spanish)](./README.es.md)
+- 🇫🇷 [Français (French)](./README.fr.md)
+- 🇩🇪 [Deutsch (German)](./README.de.md)
+- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md)
+- 🇯🇵 [日本語 (Japanese)](./README.ja.md) - 現在
 
-### In Progress
-- 🇪🇸 [Español (Spanish)](./README.es.md) - 🚧
-- 🇫🇷 [Français (French)](./README.fr.md) - 🚧
-- 🇩🇪 [Deutsch (German)](./README.de.md) - 🚧
-- 🇨🇳 [简体中文 (Chinese Simplified)](./README.zh-cn.md) - 🚧
-- 🇯🇵 [日本語 (Japanese)](./README.ja.md) - 🚧
+### 進行中
 - 🇷🇺 [Русский (Russian)](./README.ru.md) - 🚧
 - 🇵🇹 [Português (Portuguese)](./README.pt.md) - 🚧
 - 🇮🇹 [Italiano (Italian)](./README.it.md) - 🚧
@@ -73,39 +73,39 @@
 
 ---
 
-## 📖 About the Project
+## 📖 プロジェクトについて
 
-This project is a **comprehensive and practical checklist** for API security that helps developers design, develop, and deploy their APIs securely.
+このプロジェクトは、開発者が API を安全に設計、開発、デプロイできるようにする API セキュリティの**包括的で実践的なチェックリスト**です。
 
-### ✨ Features
+### ✨ 機能
 
-- 🔒 **Comprehensive Coverage**: Includes all aspects of API security from authentication to CI/CD
-- 📝 **Practical and Usable**: Each item includes explanations and practical examples
-- 🎯 **Well-Organized**: Categorized by security domains
-- 🔄 **Continuously Updated**: Keeps pace with the latest standards and best practices
-- 🌍 **Multi-language Support**: Available in Persian, English, and Arabic
+- 🔒 **包括的なカバレッジ**: 認証から CI/CD までの API セキュリティのすべての側面を含む
+- 📝 **実践的で使用可能**: 各項目には説明と実践的な例が含まれている
+- 🎯 **よく整理されている**: セキュリティドメイン別に分類
+- 🔄 **継続的に更新**: 最新の標準とベストプラクティスに追従
+- 🌍 **多言語サポート**: ペルシャ語、英語、アラビア語、スペイン語、フランス語、ドイツ語、中国語、日本語で利用可能
 
-### 🎯 Who is it for?
+### 🎯 対象者
 
-- Backend developers building APIs
-- DevOps and Security teams
-- Software architects and Technical Leads
-- Students and security enthusiasts
+- API を構築するバックエンド開発者
+- DevOps とセキュリティチーム
+- ソフトウェアアーキテクトとテクニカルリード
+- 学生とセキュリティ愛好家
 
-### 🚀 Quick Start
+### 🚀 クイックスタート
 
-1. Star this repository to stay updated
-2. Review the checklist before each deployment
-3. Check off items relevant to your project
-4. Submit a Pull Request if needed
+1. このリポジトリにスターを付けて最新情報を取得
+2. 各デプロイ前にチェックリストを確認
+3. プロジェクトに関連する項目をチェック
+4. 必要に応じて Pull Request を送信
 
 ---
 
-## 💰 Funding
+## 💰 資金提供
 
 <div align="center">
 
-If this project has been useful to you, you can support us through the following methods:
+このプロジェクトが役に立った場合は、以下の方法でサポートできます：
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zahedalfak)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/zahedalfak)
@@ -643,21 +643,21 @@ These items **must** be reviewed before each production deployment:
 
 ---
 
-## 🤝 Contributing
+## 🤝 貢献
 
-You can easily fork this repository, apply your desired changes, and submit a pull request.
+このリポジトリを簡単にフォークし、希望する変更を適用して、プルリクエストを送信できます。
 
-If you have any questions, email us at `info@zahedalfak.ir`.
+ご質問がある場合は、`info@zahedalfak.ir` までメールでお問い合わせください。
 
-For more details:
-- [CONTRIBUTING.md](./CONTRIBUTING.md) - Contributing guide
-- [SECURITY.md](./SECURITY.md) - Security policy
+詳細については：
+- [CONTRIBUTING.md](./CONTRIBUTING.md) - 貢献ガイド
+- [SECURITY.md](./SECURITY.md) - セキュリティポリシー
 
 ---
 
 <div align="center">
 
-**⭐ If this project was useful to you, please give it a Star! ⭐**
+**⭐ このプロジェクトが役に立った場合は、スターを付けてください！⭐**
 
 [![GitHub stars](https://img.shields.io/github/stars/MrAlfak/API-Security-Checklist.svg?style=social&label=Star)](https://github.com/MrAlfak/API-Security-Checklist)
 
@@ -667,29 +667,29 @@ For more details:
 
 <div align="center">
 
-**Made with ❤️ for the developer community**
+**開発者コミュニティのために ❤️ で作成**
 
-[API-Security-Checklist on GitHub](https://github.com/MrAlfak/API-Security-Checklist)
+[GitHub の API セキュリティチェックリスト](https://github.com/MrAlfak/API-Security-Checklist)
 
 </div>
 
 ---
 
-## 📋 Translation TODO List
+## 📋 翻訳 TODO リスト
 
-This section tracks the progress of translating the API Security Checklist into different languages.
+このセクションは、API セキュリティチェックリストをさまざまな言語に翻訳する進捗を追跡します。
 
-### ✅ Completed Translations
-- [x] 🇮🇷 Persian (فارسی) - `Readme.md`
-- [x] 🇬🇧 English - `README.en.md`
-- [x] 🇸🇦 Arabic (العربية) - `README.ar.md`
+### ✅ 完了した翻訳
+- [x] 🇮🇷 ペルシャ語 (فارسی) - `Readme.md`
+- [x] 🇬🇧 英語 - `README.en.md`
+- [x] 🇸🇦 アラビア語 (العربية) - `README.ar.md`
+- [x] 🇪🇸 スペイン語 - `README.es.md`
+- [x] 🇫🇷 フランス語 - `README.fr.md`
+- [x] 🇩🇪 ドイツ語 - `README.de.md`
+- [x] 🇨🇳 中国語（簡体字） - `README.zh-cn.md`
+- [x] 🇯🇵 日本語 - `README.ja.md`
 
-### 🚧 In Progress
-- [ ] 🇪🇸 Spanish (Español) - `README.es.md`
-- [ ] 🇫🇷 French (Français) - `README.fr.md`
-- [ ] 🇩🇪 German (Deutsch) - `README.de.md`
-- [ ] 🇨🇳 Chinese Simplified (简体中文) - `README.zh-cn.md`
-- [ ] 🇯🇵 Japanese (日本語) - `README.ja.md`
+### 🚧 進行中
 - [ ] 🇷🇺 Russian (Русский) - `README.ru.md`
 - [ ] 🇵🇹 Portuguese (Português) - `README.pt.md`
 - [ ] 🇮🇹 Italian (Italiano) - `README.it.md`
